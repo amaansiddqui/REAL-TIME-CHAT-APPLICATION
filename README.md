@@ -1,12 +1,14 @@
- REAL-TIME CHAT  APPLICATION 
-
 *COMPANY: CODTECH IT SOLUTIONS
 
-"NAME: Mohammad Amaan
+"NAME: Mohammad Amaan siddiqui
+
+"INTERN ID": CT12DH603
 
 "DOMAIN: FRONT END WEB DEVELOPMENT
 
 "DURATION: 3 months
+
+"MENTOR': NEELA SANTOSH
 
 This project is a **real-time chat application** built as part of Task 2 for an internship assignment or coursework. The application provides a seamless and interactive messaging interface that allows users to exchange messages instantly over a WebSocket connection. The project is divided into two core parts:
 
